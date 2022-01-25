@@ -1,0 +1,13 @@
+        *
+       ***
+      *****
+     *******
+
+for (var i=1<=4; i++) {
+     // var value to be printed="";
+    //for(var j=1; j<=i; j++){
+    //   value to be printed = value to be printed + "*"
+
+    //}
+    console.log(value to be printed) *;
+  
