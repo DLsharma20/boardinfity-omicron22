@@ -1,0 +1,15 @@
+1
+22
+333
+4444
+55555
+
+
+*/
+var value to be printed ="5";
+for(var i =1; i <=5; i++) {
+    // for (var j =i; j<=i; j++){
+        value to be printed=value to be printed +"5";
+    //}
+    console.log(value to be printed);
+} 
